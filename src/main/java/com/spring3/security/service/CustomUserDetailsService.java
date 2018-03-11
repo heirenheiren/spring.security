@@ -21,7 +21,7 @@ import org.springframework.stereotype.Service;
 /**
  * 一个自定义的service用来和数据库进行操作. 即以后我们要通过数据库保存权限.则需要我们继承UserDetailsService
  * 
- * @author liukai
+ * @author 
  * 
  */
 @Service

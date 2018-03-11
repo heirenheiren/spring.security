@@ -28,7 +28,7 @@
 				name="j_password" type="password" />
 		</p>
 
-		<input type="submit" value="Login" />
+		<input type="submit" value="login" />
 
 	</form>
 
