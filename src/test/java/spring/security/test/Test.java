@@ -3,7 +3,7 @@ package spring.security.test;
 //import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 //import org.springframework.security.crypto.password.PasswordEncoder;
 
-import org.springframework.security.authentication.encoding.Md5PasswordEncoder;
+//import org.springframework.security.authentication.encoding.Md5PasswordEncoder;
 import org.springframework.security.authentication.encoding.PasswordEncoder;
 
 import com.spring3.security.encode.Md5PE;
